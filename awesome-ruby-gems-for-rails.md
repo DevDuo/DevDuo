@@ -7,6 +7,7 @@ https://github.com/ifad/data-confirm-modal
 https://github.com/oivoodoo/devise_masquerade
 https://github.com/doorkeeper-gem/doorkeeper
 https://github.com/norman/friendly_id
+https://github.com/afomera/devise-bootstrapped
 
 https://github.com/kjvarga/sitemap_generator
 
