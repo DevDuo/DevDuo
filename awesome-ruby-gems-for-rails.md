@@ -15,4 +15,7 @@ https://github.com/minimagick/minimagick
 
 https://github.com/basecamp/local_time
 https://github.com/mdeering/gravatar_image_tag
+
 ```
+https://blog.saeloun.com/2019/10/01/rails-6-action-text.html
+https://trix-editor.org/
